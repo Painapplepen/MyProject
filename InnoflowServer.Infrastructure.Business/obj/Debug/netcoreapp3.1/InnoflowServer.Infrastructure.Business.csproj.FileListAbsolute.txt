@@ -1,0 +1,9 @@
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\bin\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.deps.json
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\bin\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.dll
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\bin\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.pdb
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.csprojAssemblyReference.cache
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.AssemblyInfoInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.AssemblyInfo.cs
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.csproj.CoreCompileInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.dll
+D:\Project\InnoflowServer\InnoflowServer.Infrastructure.Business\obj\Debug\netcoreapp3.1\InnoflowServer.Infrastructure.Business.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InnoflowServer.Infrastructure.Data\InnoflowServer.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\InnoflowServer.Services.Interfaces\InnoflowServer.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

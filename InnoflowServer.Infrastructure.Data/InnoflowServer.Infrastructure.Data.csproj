@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201028102619_SecondMigrations.cs" />
+    <Compile Remove="Migrations\20201028102619_SecondMigrations.Designer.cs" />
+    <Compile Remove="Migrations\20201028104946_SecondMigrations.cs" />
+    <Compile Remove="Migrations\20201028104946_SecondMigrations.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InnoflowServer.Domain.Core\InnoflowServer.Domain.Core.csproj" />
+    <ProjectReference Include="..\InnoflowServer.Domain.Interfaces\InnoflowServer.Domain.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

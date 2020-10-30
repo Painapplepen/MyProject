@@ -1,0 +1,9 @@
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.deps.json
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.dll
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.pdb
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.csprojAssemblyReference.cache
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.AssemblyInfoInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.AssemblyInfo.cs
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.dll
+D:\Project\InnoflowServer\InnoflowServer.Services.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Services.Interfaces.pdb

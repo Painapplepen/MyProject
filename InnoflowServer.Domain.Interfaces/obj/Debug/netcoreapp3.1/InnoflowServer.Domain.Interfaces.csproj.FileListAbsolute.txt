@@ -1,0 +1,12 @@
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.deps.json
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.dll
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.pdb
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Domain.Core.dll
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\bin\Debug\netcoreapp3.1\InnoflowServer.Domain.Core.pdb
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.csprojAssemblyReference.cache
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.AssemblyInfoInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.AssemblyInfo.cs
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.csproj.CopyComplete
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.dll
+D:\Project\InnoflowServer\InnoflowServer.Domain.Interfaces\obj\Debug\netcoreapp3.1\InnoflowServer.Domain.Interfaces.pdb
